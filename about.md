@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-
+![](https://cdn-images-1.medium.com/max/800/1*mLjH81VT-HDPSj8pmjMVCQ.png)
 
 > "You miss 100% of the shots you don't take"
 > 	-Wayne Gretzky
