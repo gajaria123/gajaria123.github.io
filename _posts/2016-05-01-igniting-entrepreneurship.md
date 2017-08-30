@@ -22,9 +22,11 @@ The inaugural conference was a great success and featured speakers such as the C
 As soon as the first event ended, meetings began to start planning for the next event. The team worked on booking out a venue at the University of Toronto Mississauga campus and began looking for speakers. Planning for the conference was led primarily by Eric, who was able to lead us all on making the larger conference happen. To help promote ticket sales, we were able to secure a partnership with a high school group that had a network of ambassadors across the Peel region. This helped us spread word about the organization efficiently and effectively.
 
 When it was finally time for conference day, everything came together the way we had envisioned. The day began with a keynote address from the mayor of Mississauga, Bonnie Crombie, and then the students transitioned into a series of workshops located across the building. The workshops were built based on the entrepreneurial method (described later) created by the founders of Impact Tomorrow. During lunch, the students had a chance to connect with sponsors, universities, and even other student entrepreneurs. After lunch, students wrapped up their workshops and then had the chance to watch the pitch competition, where students pitched their own proposals for a chance to win $1000 towards building their idea. The winning team was [Cipher](http://projectcipher.io/), which has turned into a large community of coders and creators based in Brampton, Ontario.
+
 <center>
 <iframe src="http://www.youtube.com/embed/H2VYj7JgTXA?color=white&theme=light"></iframe>
 </center>
+
 ### Entrepreneurial Method
 The underlying methods taught during the workshops at the conference were based on research by Dr. Saras, Sarasvathy, who was the co-founder of the Effectuation Theory. The Impact Tomorrow founding team was able to use this research to develop a curriculum that would help guide young students passionate about building their own businesses. They coined this curriculum the “Entrepreneurial Method” and have used it at all their events as a mechanism for teaching youth. 
 
