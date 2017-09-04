@@ -2,7 +2,7 @@
 layout: post
 title: My Summer with the Tribe
 ---
-![](https://media.licdn.com/mpr/mpr/AAEAAQAAAAAAAANjAAAAJGU0MjcyZDdhLTQ3ZWUtNDlmMi1hOWIxLTgzZWI0MjM4MWFkZQ.jpg)
+![](/images/tribalscale.jpg)
 
 Heading into my first coop term, I wasn't too sure what to expect. I had heard tons of stories of interns only working towards simple administrative tasks or grabbing coffee for the team. Fortunately, my experience working at TribalScale has been nothing like the stereotypical first internship experience. Whether it was working on client-facing projects, attending company events, or participating in discussions, at TribalScale, interns have an opportunity to build industry experience through a multitude of roles. Personally, I served as an Agile Software Test Engineering intern, but above all, these are my key takeaways from the experience:
 
