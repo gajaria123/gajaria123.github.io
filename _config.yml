@@ -7,7 +7,7 @@ permalink:           pretty
 # Setup
 title:               Rushi Gajaria
 tagline:             'My Thoughts on the World'
-description:         'The life of an undergraduate university student in Waterloo. Made by <a href="https://twitter.com/rushigajaria" target="_blank">@rushigajaria</a>.'
+description:         'The life of an undergraduate university student in Waterloo. Written by <a href="https://twitter.com/rushigajaria" target="_blank">@rushigajaria</a>.'
 url:                 'http://rushi.me'
 plugins: [jekyll-paginate]
 baseurl:             'http://rushi.me'
