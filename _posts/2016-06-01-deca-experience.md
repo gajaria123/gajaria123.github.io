@@ -31,7 +31,7 @@ Competing at internationals was a phenomenal experience. The case studies were m
 
 My category was called up late in the award ceremony, and after a few nerve-wracking moments, I heard my name called out for first place. As I went up to pick up the trophy, I didn’t even realize what had just happened, but after a few moments, I was extremely happy that I had managed to place first in Sports and Entertainment Marketing, an accomplishment that I could only dream of months earlier. Fortunately for me, this wasn’t my last DECA dream that would materialize. 
 <center>
-<iframe src="http://www.youtube.com/embed/loXPOB3yddQ?color=white&theme=light"></iframe>
+<iframe src="https://www.youtube.com/embed/loXPOB3yddQ?color=white&theme=light"></iframe>
 </center>
 
 ### Becoming a Leader 
