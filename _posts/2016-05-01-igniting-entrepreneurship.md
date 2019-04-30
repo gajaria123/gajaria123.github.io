@@ -24,7 +24,7 @@ As soon as the first event ended, meetings began to start planning for the next 
 When it was finally time for conference day, everything came together the way we had envisioned. The day began with a keynote address from the mayor of Mississauga, Bonnie Crombie, and then the students transitioned into a series of workshops located across the building. The workshops were built based on the entrepreneurial method (described later) created by the founders of Impact Tomorrow. During lunch, the students had a chance to connect with sponsors, universities, and even other student entrepreneurs. After lunch, students wrapped up their workshops and then had the chance to watch the pitch competition, where students pitched their own proposals for a chance to win $1000 towards building their idea. The winning team was [Cipher](http://projectcipher.io/), which has turned into a large community of coders and creators based in Brampton, Ontario.
 
 <center>
-<iframe src="http://www.youtube.com/embed/H2VYj7JgTXA?color=white&theme=light"></iframe>
+<iframe src="https://www.youtube.com/embed/H2VYj7JgTXA?color=white&theme=light"></iframe>
 </center>
 
 ### Entrepreneurial Method
