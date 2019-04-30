@@ -3,7 +3,7 @@ layout: post
 title: My DECA Experience
 ---
 
-![](http://rushi.me/images/banner-in.jpg)
+![](/images/banner-in.jpg)
 
 *DECA was a pivotal part of my high school career. Although a blog post cannot encapsulate all the memories and growth I experienced during my time in DECA, I hope it gives you a quick look into what the organization is about.*
 
