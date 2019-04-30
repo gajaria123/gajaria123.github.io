@@ -14,6 +14,7 @@ I'll be blogging about a variety of topics, so stay tuned for posts about tech, 
 
 
 ## Experience
+* Software Engineering @ [SnapTravel](https://www.snaptravel.com/)
 * Software Developer @ [Bank of America Merrill Lynch](https://www.bofaml.com/content/boaml/en_us/home.html/)
 * Summer Intern @ [TribalScale](http://www.tribalscale.com/)
 * Ideator @ [Impact Tomorrow](http://impacttomorrow.ca/)
