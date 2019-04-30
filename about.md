@@ -13,11 +13,10 @@ I'll be blogging about a variety of topics, so stay tuned for posts about tech, 
 
 
 
-## Experience
+## Previous Internships
 * Software Engineering @ [SnapTravel](https://www.snaptravel.com/)
 * Software Developer @ [Bank of America Merrill Lynch](https://www.bofaml.com/content/boaml/en_us/home.html/)
-* Summer Intern @ [TribalScale](http://www.tribalscale.com/)
-* Provincial Executive Officer @ [DECA Ontario](http://2016.deca.ca/), Canada's Largest Youth Business Organization
+* Software Test Engineering @ [TribalScale](http://www.tribalscale.com/)
 
 ## Awards
 
