@@ -3,7 +3,7 @@ layout: post
 title: What Happens at a DECA ICDC Leadership Academy?
 ---
 
-![](http://www.decadirect.org/wp-content/uploads/data-import/06/06f4d708f6e41b217f07971612b46b06-lda.jpg)
+![](https://www.decadirect.org/wp-content/uploads/data-import/06/06f4d708f6e41b217f07971612b46b06-lda.jpg)
 
 During my freshman year of high school, I took part in the Leadership Development Academy at DECA’s International Career Development Conference. At that point in time, I wasn’t too sure of what it meant to be a leader, or what skills were needed to start an initiative and make an impact.
 
