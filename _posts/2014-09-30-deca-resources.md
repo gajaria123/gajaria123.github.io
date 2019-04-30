@@ -3,7 +3,7 @@ layout: post
 title: 6 Great Online Resources to Help You Train for DECA Competitive Events
 ---
 
-![](http://www.decadirect.org/wp-content/uploads/data-import/26/26bf40d87712ed9dd43ba3703481a310-compete.jpg)
+![](https://www.decadirect.org/wp-content/uploads/data-import/26/26bf40d87712ed9dd43ba3703481a310-compete.jpg)
 
 Training for competitive events in DECA can get quite difficult, especially when trying to manage your DECA studies with your other, everyday homework assignments.
 
