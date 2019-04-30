@@ -32,7 +32,7 @@ The shifts in retail have presented both opportunities and challenges for small 
 Overall, the conference was an insightful experience for getting exposure to the challenges faced by enterprises in today’s rapidly changing digital environment. It was also an amazing opportunity to connect with fellow like-minded students, and I would highly recommend the Future Forward conference to any students interested in the intersection of business and technology.
 
 <center>
-<iframe src="http://www.youtube.com/embed/5LTjsnmPv7Y?color=white&theme=light"></iframe>
+<iframe src="https://www.youtube.com/embed/5LTjsnmPv7Y?color=white&theme=light"></iframe>
 </center>
 
 *This article was originally published on the [TribalScale Blog](https://medium.com/tribalscale/the-latest-in-enterprise-software-at-opentexts-future-forward-event-4569d7ca37c9).*
