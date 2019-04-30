@@ -23,7 +23,7 @@ I'll be blogging about a variety of topics, so stay tuned for posts about tech, 
 
 * Term Dean's Honours List @ University of Waterloo Faculty of Mathematics
 * Trudy Byma Entrance Scholarship @ University of Waterloo
-* [Governor General's Academic Medal](https://www.gg.ca/document.aspx?id=15294&lan=eng) @ Gordon Graydon Memorial S.S.
+* [Governor General's Academic Medal](https://www.gg.ca/en/honours/recipients/116-91652) @ Gordon Graydon Memorial S.S.
 * Valedictorian @ Gordon Graydon Memorial S.S.
 * [International Award](https://www.youtube.com/watch?v=loXPOB3yddQ) @ 2015 DECA ICDC
 
