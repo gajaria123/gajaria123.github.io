@@ -7,7 +7,7 @@ title: About
 > 	-Wayne Gretzky
 
 
-I live each and every day with the above quote in my head. I am a huge believer in taking every opportunity you get to strive to make an impact on the world around you. I have a plethora of experiences in marketing, leadership, event management, and speaking. Paired with my passion for entrepreneurship, I love to envision the endless possibilities for our world.
+I live each and every day with the above quote in my head. I am a huge believer in taking every opportunity you get to strive to make an impact on the world around you. I have a plethora of experiences in software development, marketing, leadership, and public speaking. Paired with my passion for entrepreneurship, I love to envision the endless possibilities for our world.
 
 I'll be blogging about a variety of topics, so stay tuned for posts about tech, innovation, leadership, and much more. 
 
