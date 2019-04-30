@@ -17,7 +17,6 @@ I'll be blogging about a variety of topics, so stay tuned for posts about tech, 
 * Software Engineering @ [SnapTravel](https://www.snaptravel.com/)
 * Software Developer @ [Bank of America Merrill Lynch](https://www.bofaml.com/content/boaml/en_us/home.html/)
 * Summer Intern @ [TribalScale](http://www.tribalscale.com/)
-* Ideator @ [Impact Tomorrow](http://impacttomorrow.ca/)
 * Provincial Executive Officer @ [DECA Ontario](http://2016.deca.ca/), Canada's Largest Youth Business Organization
 
 ## Awards
@@ -33,7 +32,6 @@ I'll be blogging about a variety of topics, so stay tuned for posts about tech, 
 * Candidate for Bachelor of Computer Science @ University of Waterloo
 * Candidate for Bachelor of Business Administration @ Wilfrid Laurier University
 * International Business & Technology Program @ Gordon Graydon Memorial S.S.
-* [Summer Academy](https://blog.brainstation.io/201561brainstation-summer-academy/) @ BrainStation
 
 
 <br />
