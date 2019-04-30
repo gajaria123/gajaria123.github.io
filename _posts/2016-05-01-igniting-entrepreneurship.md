@@ -2,8 +2,6 @@
 layout: post
 title: Igniting Entrepreneurship with Impact Tomorrow
 ---
-![](https://media.licdn.com/mpr/mpr/AAEAAQAAAAAAAANjAAAAJGU0MjcyZDdhLTQ3ZWUtNDlmMi1hOWIxLTgzZWI0MjM4MWFkZQ.jpg)
-
   > “If you can dream it, you can do it”- Walt Disney
 
 Many of the world’s most critical moments have been inspired by the dream and vision of an entrepreneur. Over the past several years, we’ve been fortunate to witness the world change in ways that seemed impossible a decade ago. Whether it is self driving cars or state-of-the-art entertainment systems, innovation has powered our way of living and will continue to do so for years to come. 
