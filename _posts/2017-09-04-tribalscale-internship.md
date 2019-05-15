@@ -29,7 +29,7 @@ Along with all the fun times with fellow co-workers, I was fortunate to be able 
 
 Paired with the learning from the lunch ‘n’ learns, it was also very easy to learn from other tribe members. With the diverse skill set of your fellow co-workers, it is difficult to find a problem that someone *can’t* help you with. I found my fellow colleagues extremely helpful in this regard, and it helped me learn a lot about company processes, building and maintaining client relationships, and growing in a career. 
 
-To help with personal career development, my manager would meet with me at least twice a month to discuss progress, concerns, and goals for the future. I found these meetings a great time to reflect on the last two weeks of work, and think about the different ways I could add value during the remainder of the term. During these meetings, I shared my interest in learning more about the enterprise software industry, and learned about the [OpenText Future Forward event](2017/08/14/opentext-future-forward/).
+To help with personal career development, my manager would meet with me at least twice a month to discuss progress, concerns, and goals for the future. I found these meetings a great time to reflect on the last two weeks of work, and think about the different ways I could add value during the remainder of the term. During these meetings, I shared my interest in learning more about the enterprise software industry, and learned about the [OpenText Future Forward event](/2017/08/14/opentext-future-forward/).
 
 ### Seeing a Company Scale Up
 
