@@ -14,6 +14,7 @@ I'll be blogging about a variety of topics, so stay tuned for posts about tech, 
 
 
 ## Previous Internships
+* Software Engineering @ [Wish](https://www.wish.com/)
 * Software Engineering @ [SnapTravel](https://www.snaptravel.com/)
 * Software Developer @ [Bank of America Merrill Lynch](https://www.bofaml.com/content/boaml/en_us/home.html/)
 * Software Test Engineering @ [TribalScale](http://www.tribalscale.com/)
