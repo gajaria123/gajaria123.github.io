@@ -21,6 +21,7 @@ I'll be blogging about a variety of topics, so stay tuned for posts about tech, 
 
 ## Awards
 
+* Konrad Group Digital Technology Scholarship @ University of Waterloo
 * Term Dean's Honours List @ University of Waterloo Faculty of Mathematics
 * Trudy Byma Entrance Scholarship @ University of Waterloo
 * [Governor General's Academic Medal](https://www.gg.ca/en/honours/recipients/116-91652) @ Gordon Graydon Memorial S.S.
@@ -31,7 +32,6 @@ I'll be blogging about a variety of topics, so stay tuned for posts about tech, 
 
 * Candidate for Bachelor of Computer Science @ University of Waterloo
 * Candidate for Bachelor of Business Administration @ Wilfrid Laurier University
-* International Business & Technology Program @ Gordon Graydon Memorial S.S.
 
 
 <br />
